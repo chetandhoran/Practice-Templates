@@ -1,0 +1,165 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    border: border-box;
+  
+}
+.top{
+    height: 50px;
+    background-color: rgb(3, 3, 91);
+    display: flex;
+    align-items: center;
+    font-size: 18px; 
+}
+a{
+    text-decoration: none;
+    color:white;
+    
+}
+
+
+.top1{
+    margin-left: 50px;
+}
+.top2{
+    margin-left: 10px;
+}
+.tele{
+    margin-left: 700px;
+   
+}
+
+.t2{
+    width: 200px;
+    position: absolute;
+    right: 50px;
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 25px;
+}
+.navbar{
+    height: 90px;
+    display: flex;
+    justify-content: space-evenly;
+    background-color:#FFFFFF;
+}
+
+.logo img{
+    height: 50px;
+    width: 177px;
+}
+
+.pages{
+    width: 50%;
+    display: flex;
+    justify-content: space-evenly;
+   
+}
+.pages a{
+    font-size: 18px;
+    font-family:sans-serif;
+   color: #000249;
+}
+
+.pages a:hover{
+    color: #dd1717 ;
+}
+.reg{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  
+}
+.reg button{
+    height: 44px;
+    width: 150px;
+    background-color: #dd1717;
+    color: white;
+    border: 2px solid blue;
+    border-radius: 10px 0px 10px 0px;
+    font-size: 16px;
+    font-weight: 700;
+}
+.hero{
+    height: 520px;
+    background-image: url(images/her.jpg);
+    background-size: cover;
+    display: flex;
+}
+.title{
+    height: 244px;
+    width: 50%;
+    position: absolute;
+    right: 2%;
+    top:30%;
+    font-weight: 700;
+    color: #FFFFFF;
+    font-family: sans-serif;
+    line-height: 1;
+}
+.p1{
+    font-size: 28px;
+
+}
+.p2{
+    font-size: 50px;
+    line-height: 1;
+  
+}
+.p3{
+    font-size: 18px;
+}
+.b2{
+    height: 44px;
+    width: 150px;
+    background-color: #dd1717;
+    color: white;
+    border: 2px solid blue;
+    border-radius: 10px;
+    font-size: 16px;
+    font-weight: 700;
+    font-family: sans-serif;
+}
+.cards{
+    height: 128px; ;
+    width:1140px ;
+    display: flex;
+    position: absolute;
+    bottom: 5%;
+    right: 15%;
+    background-color:#FFFFFF;
+}
+
+.section{
+    height: 128px;
+    width: 228px;
+    border-right: 1px solid grey;
+    
+}
+.section p{
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    color: #000249;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.section img{
+    margin-top: 20px;
+    margin-left: 85px;
+    height: 50px;
+    width: 50px; 
+}
+.extra{
+    height: 100px;
+    background-color: rgba(0, 0, 0, 0.895);
+}
+
+
+
+
+
+
+
+
